@@ -23,5 +23,5 @@
 |Lista wad|Cons|div.review-feature__item--negative|
 |Ile osób uznało opinię za przydatną|Useful|button.vote-yes > span|
 |Ile osób uznało opinię za nieprzydatną|Useless|button.vote-no > span|
-|Data wystawienia opinii|Post_date|span.user-post_published > time:nth-child(1)['datetime']|
-|Data zakupu produktu|Purchase_date|span.user-post_published > time:nth-child(2)['datetime']|
+|Data wystawienia opinii|Post_date|span.user-post_published > time:nth-time:nth-of-type(1)['datetime']|
+|Data zakupu produktu|Purchase_date|span.user-post_published > time:nth-of-type(2)['datetime']|
